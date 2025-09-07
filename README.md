@@ -2,7 +2,7 @@
 This project uses an Artificial Neural Network (ANN) to identify whether a Facebook friend request is authentic or a fake profile.
 It helps users determine profile authenticity, preventing identity theft and potential data breaches.
 
-[DEMO](https://youtu.be/wOcbr_wzcRo)
+[DEMO](https://youtu.be/j6aR2XPhvBU)
 
 ⚡ Key Features:
 🧠 ANN-Based Detection
